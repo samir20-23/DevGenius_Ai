@@ -1,0 +1,41 @@
+[
+  {
+    "telegram_id": 5591841777,
+    "username": "_-_-_",
+    "first_name": "SAMIR",
+    "last_name": "",
+    "chat_id": 5591841777,
+    "message": "hi im test you know how is the best in movies",
+    "extracted_emails": [],
+    "extracted_numbers": [],
+    "shared_contact": null,
+    "shared_location": null,
+    "timestamp": "2025-04-26T15:07:51.337Z"
+  },
+  {
+    "telegram_id": 5591841777,
+    "username": "_-_-_",
+    "first_name": "SAMIR",
+    "last_name": "",
+    "chat_id": 5591841777,
+    "message": "if programming what we name this : if else .",
+    "extracted_emails": [],
+    "extracted_numbers": [],
+    "shared_contact": null,
+    "shared_location": null,
+    "timestamp": "2025-04-27T01:17:20.748Z"
+  },
+  {
+    "telegram_id": 5591841777,
+    "username": "_-_-_",
+    "first_name": "SAMIR",
+    "last_name": "",
+    "chat_id": 5591841777,
+    "message": "so is if condition",
+    "extracted_emails": [],
+    "extracted_numbers": [],
+    "shared_contact": null,
+    "shared_location": null,
+    "timestamp": "2025-04-27T01:18:04.410Z"
+  }
+]
