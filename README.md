@@ -4,9 +4,7 @@
   </h1>
 </div>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="480" alt="AI Chatbot GIF"/>
-</div>
+ 
 
 <p align="center">
   <a target="_blank" href="https://github.com/samir20-23/your-chatbot-repo?tab=repositories">
@@ -56,12 +54,8 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) to chat with the bot.
 
-## 🎨 Design & GIFs
-
-<div align="center">
-  <img src="https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif" width="300" alt="Chat UI Animation" />
-</div>
-
+ 
+ 
 *Animated conversation UI with typing indicator.*
 
 ## 📂 Project Structure
