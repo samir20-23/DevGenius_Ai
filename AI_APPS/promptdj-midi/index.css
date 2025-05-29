@@ -1,0 +1,35 @@
+html, body {
+  height: 100%;
+  margin: 0;
+}
+body {
+  overflow:hidden;
+}
+body.dragging {
+  cursor: ns-resize;
+}
+body.dragging * {
+  user-select: none;
+  pointer-events: none;
+}
+
+html, body {
+  height: 100%;
+  margin: 0;
+  font-family: 'Google Sans', sans-serif, system-ui; /* Added Google Sans as primary */
+  background-color: #1a1a1a; /* Darker base background */
+  color: #f0f0f0; /* Light text color */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+body {
+  overflow: hidden; /* Prevent scrolling on body */
+}
+/* Removed body.dragging and body.dragging * styles as WeightKnob which used them is removed */
+
+/* Ensure full viewport height for the app container */
+prompt-dj-app {
+  display: block; /* Make it a block element */
+  height: 100vh;
+  width: 100vw;
+}

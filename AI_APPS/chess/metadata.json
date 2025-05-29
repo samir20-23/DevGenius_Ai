@@ -1,0 +1,5 @@
+{
+  "name": "Chess & Music Fusion",
+  "description": "A web application featuring a playable chess game and an MP3 music player, allowing users to enjoy chess with their favorite tunes.",
+  "requestFramePermissions": []
+}
